@@ -14,4 +14,4 @@ git clone https://github.com/CyberSafe-Labs/AquaLang.git
 
 ## How to run a .aqua file
 
-Open CMD (Windows) or Bash (Linux) and cd to the Aqua Directory and type ```python shell.py``` or ```python3 shell.py``` then type ```RUN("<filename>.aqua")
+Open CMD (Windows) or Bash (Linux) and cd to the Aqua Directory and type ```python shell.py``` or ```python3 shell.py``` then type ```RUN("<filename>.aqua")```
